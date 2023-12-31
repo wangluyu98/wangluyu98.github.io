@@ -42,6 +42,7 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+美食星球,http://50.7.238.114:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
 
 卫视频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -168,3 +169,7 @@ Bestv赛事6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/in
 家家购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001163/index.m3u8
 家有购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001244/index.m3u8
 快乐购,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001368/index.m3u8
+
+直播中国,#genre#
+江苏南京鼓楼广场,http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8
+云南丽江玉龙雪山,http://gcksc.v.kcdnvip.com/gc/ylxs11_1/index.m3u8
